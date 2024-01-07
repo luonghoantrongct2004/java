@@ -1,0 +1,7 @@
+package com.hoantrongweb2023.controller.web;
+
+import javax.servlet.http.HttpServlet;
+
+public class HomeController extends HttpServlet{
+
+}

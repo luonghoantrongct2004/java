@@ -1,0 +1,5 @@
+package com.hoantrongweb2023.controller.admin;
+
+public class HomeController {
+
+}

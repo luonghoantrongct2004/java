@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+G:\My Drive\Java-web-31-7-2023\workspace\.metadata\.plugins\org.eclipse.jdt.core
+3357226796.index
+2112620374.index
+142612541.index
+1865797976.index
+3985628963.index
+4186743129.index
+2273492143.index
+2888376388.index
+2277631545.index
+3002748184.index
+2421738734.index
+1313379173.index
+1594565409.index
+3737213304.index
+720921495.index
+3240370078.index
+48317232.index
+657677344.index
+975835309.index
+2954396427.index
+209766502.index
+3122936672.index

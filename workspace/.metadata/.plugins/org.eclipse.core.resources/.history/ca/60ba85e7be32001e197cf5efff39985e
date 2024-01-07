@@ -1,0 +1,20 @@
+package com.laptrinhweb2023.model;
+
+import com.oracle.wls.shaded.org.apache.xpath.operations.String;
+
+public class UserModel {
+	private String userName;
+	private String fullName;
+	public String getUserName() {
+		return userName;
+	}
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+	public String getFullName() {
+		return fullName;
+	}
+	public void setFullName(String fullName) {
+		this.fullName = fullName;
+	}
+}
